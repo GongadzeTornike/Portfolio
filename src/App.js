@@ -121,8 +121,8 @@ function App() {
         </p>
         <p>
           LinkedIn:{" "}
-          <a href="https://linkedin.com/in/YourLinkedIn">
-            linkedin.com/in/YourLinkedIn
+          <a href="https://www.linkedin.com/in/tornike-gongadze-ab2314328/">
+            https://www.linkedin.com/in/tornike-gongadze-ab2314328/
           </a>
         </p>
       </section>
